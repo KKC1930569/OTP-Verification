@@ -1,0 +1,17 @@
+{
+  "name": "otp-verification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "xm": "^1.0.7-test.0.0.0",
+    "xpress": "^2.4.6"
+  }
+}
